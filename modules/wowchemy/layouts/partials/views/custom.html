@@ -33,10 +33,11 @@
       {{ $resource := partial "functions/get_featured_image.html" $item }}
       {{ with $resource }}
       {{ $image := .Resize "2000x webp" }}
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-        <img src="{{ $image.RelPermalink }}" style="max-width: 100%;"
-          loading="lazy">
-      </a>
+      <div class="square-container">
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+          <img src="{{ $image.RelPermalink }}" class="square-img" loading="lazy">
+        </a>
+      </div>
       {{end}}
       <div class="card-body">
         <h5 class="card-title"><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a></h5>
