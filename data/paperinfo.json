@@ -1,0 +1,1682 @@
+[{
+        "journal": "AGRICULTURAL WATER MANAGEMENT",
+        "year": 2015,
+        "impactIndex": 2.603,
+        "sector": "AGRONOMY",
+        "q": "1",
+        "position": "13/83"
+    },
+    {
+        "journal": "AGRICULTURAL WATER MANAGEMENT",
+        "year": 2015,
+        "impactIndex": 2.603,
+        "sector": "WATER RESOURCES",
+        "q": "1",
+        "position": "10/85"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2018,
+        "impactIndex": 2.217,
+        "sector": "CHEMISTRY, MULTIDISCIPLINARY",
+        "q": "2",
+        "position": "71/212"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2018,
+        "impactIndex": 2.217,
+        "sector": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "q": "2",
+        "position": "142/361"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2018,
+        "impactIndex": 2.217,
+        "sector": "PHYSICS, APPLIED",
+        "q": "2",
+        "position": "63/169"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2018,
+        "impactIndex": 2.217,
+        "sector": "ENGINEERING, MULTIDISCIPLINARY",
+        "q": "2",
+        "position": "56/168"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2020,
+        "impactIndex": 2.679,
+        "sector": "CHEMISTRY, MULTIDISCIPLINARY",
+        "q": "3",
+        "position": "101/178"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2020,
+        "impactIndex": 2.679,
+        "sector": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "q": "3",
+        "position": "201/334"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2020,
+        "impactIndex": 2.679,
+        "sector": "PHYSICS, APPLIED",
+        "q": "2",
+        "position": "73/160"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2020,
+        "impactIndex": 2.679,
+        "sector": "ENGINEERING, MULTIDISCIPLINARY",
+        "q": "2",
+        "position": "38/90"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2021,
+        "impactIndex": 2.838,
+        "sector": "CHEMISTRY, MULTIDISCIPLINARY",
+        "q": "2",
+        "position": "90/224"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2021,
+        "impactIndex": 2.838,
+        "sector": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "q": "2",
+        "position": "194/414"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2021,
+        "impactIndex": 2.838,
+        "sector": "PHYSICS, APPLIED",
+        "q": "2",
+        "position": "75/178"
+    },
+    {
+        "journal": "APPLIED SCIENCES",
+        "year": 2021,
+        "impactIndex": 2.838,
+        "sector": "ENGINEERING, MULTIDISCIPLINARY",
+        "q": "2",
+        "position": "62/175"
+    },
+    {
+        "journal": "CHINA COMMUNICATIONS",
+        "year": 2018,
+        "impactIndex": 1.882,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "51/88"
+    },
+    {
+        "journal": "COMPUTER COMMUNICATIONS",
+        "year": 2018,
+        "impactIndex": 2.766,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "37/88"
+    },
+    {
+        "journal": "COMPUTER COMMUNICATIONS",
+        "year": 2018,
+        "impactIndex": 2.766,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "54/155"
+    },
+    {
+        "journal": "COMPUTER COMMUNICATIONS",
+        "year": 2018,
+        "impactIndex": 2.766,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "105/266"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2007,
+        "impactIndex": 0.829,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "2",
+        "position": "22/45"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2007,
+        "impactIndex": 0.829,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "25/66"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2007,
+        "impactIndex": 0.829,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "46/92"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2007,
+        "impactIndex": 0.829,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "107/227"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2008,
+        "impactIndex": 1.304,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "2",
+        "position": "22/45"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2008,
+        "impactIndex": 1.304,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "18/67"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2008,
+        "impactIndex": 1.304,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "44/99"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2008,
+        "impactIndex": 1.304,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "91/229"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2011,
+        "impactIndex": 1.200,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "2",
+        "position": "16/50"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2011,
+        "impactIndex": 1.200,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "29/79"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2011,
+        "impactIndex": 1.200,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "51/135"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2011,
+        "impactIndex": 1.200,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "108/245"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2012,
+        "impactIndex": 1.231,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "2",
+        "position": "16/50"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2012,
+        "impactIndex": 1.231,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "28/78"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2012,
+        "impactIndex": 1.231,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "47/132"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2012,
+        "impactIndex": 1.231,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "108/243"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2019,
+        "impactIndex": 3.111,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "2",
+        "position": "14/53"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2019,
+        "impactIndex": 3.111,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "36/90"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2019,
+        "impactIndex": 3.111,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "52/156"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2019,
+        "impactIndex": 3.111,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "85/266"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2020,
+        "impactIndex": 4.474,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "1",
+        "position": "9/53"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2020,
+        "impactIndex": 4.474,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "18/91"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2020,
+        "impactIndex": 4.474,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "1",
+        "position": "39/161"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2020,
+        "impactIndex": 4.474,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "48/273"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "TELECOMMUNICATIONS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "COMPUTER NETWORKS",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "COMPTUTERS AND ELECTRONICS IN AGRICULTURE",
+        "year": 2016,
+        "impactIndex": 2.201,
+        "sector": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
+        "q": "2",
+        "position": "41/105"
+    },
+    {
+        "journal": "COMPTUTERS AND ELECTRONICS IN AGRICULTURE",
+        "year": 2016,
+        "impactIndex": 2.201,
+        "sector": "AGRICULTURE, MULTIDISCIPLINARY",
+        "q": "1",
+        "position": "6/56"
+    },
+    {
+        "journal": "Computers Materials & Continua",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "Computers Materials & Continua",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "ELECTRONICS",
+        "year": 2019,
+        "impactIndex": 2.412,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "125/266"
+    },
+    {
+        "journal": "ELECTRONICS",
+        "year": 2020,
+        "impactIndex": 2.397,
+        "sector": "PHYSICS, APPLIED",
+        "q": "3",
+        "position": "88/160"
+    },
+    {
+        "journal": "ELECTRONICS",
+        "year": 2020,
+        "impactIndex": 2.397,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "3",
+        "position": "93/161"
+    },
+    {
+        "journal": "ELECTRONICS",
+        "year": 2020,
+        "impactIndex": 2.397,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "3",
+        "position": "145/273"
+    },
+    {
+        "journal": "ELECTRONICS",
+        "year": 2021,
+        "impactIndex": 2.690,
+        "sector": "PHYSICS, APPLIED",
+        "q": "3",
+        "position": "82/161"
+    },
+    {
+        "journal": "ELECTRONICS",
+        "year": 2021,
+        "impactIndex": 2.690,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "3",
+        "position": "100/164"
+    },
+    {
+        "journal": "ELECTRONICS",
+        "year": 2021,
+        "impactIndex": 2.690,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "3",
+        "position": "139/276"
+    },
+    {
+        "journal": "ENERGIES",
+        "year": 2020,
+        "impactIndex": 3.004,
+        "sector": "ENERGY & FUELS",
+        "q": "3",
+        "position": "81/133"
+    },
+    {
+        "journal": "EUROPEAN TRANSACTIONS ON TELECOMMUNICATIONS",
+        "year": 2006,
+        "impactIndex": 0.434,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "37/59"
+    },
+    {
+        "journal": "EUROPEAN TRANSACTIONS ON TELECOMMUNICATIONS",
+        "year": 2009,
+        "impactIndex": 0.453,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "47/77"
+    },
+    {
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "year": 2012,
+        "impactIndex": 2.038,
+        "sector": "OPERATIONS RESEARCH & MANAGEMENT SCIENCE",
+        "q": "1",
+        "position": "9/79"
+    },
+    {
+        "journal": "Frontiers in Physiology",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "PHYSIOLOGY",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "JOURNAL OF SUPERCOMPUTING",
+        "year": 2013,
+        "impactIndex": 0.841,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "3",
+        "position": "29/50"
+    },
+    {
+        "journal": "JOURNAL OF SUPERCOMPUTING",
+        "year": 2013,
+        "impactIndex": 0.841,
+        "sector": "COMPUTER SCIENCE, THEORY & METHODS",
+        "q": "2",
+        "position": "47/102"
+    },
+    {
+        "journal": "JOURNAL OF SUPERCOMPUTING",
+        "year": 2013,
+        "impactIndex": 0.841,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "3",
+        "position": "161/248"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2009,
+        "impactIndex": 2.185,
+        "sector": "OPTICS",
+        "q": "1",
+        "position": "10/71"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2009,
+        "impactIndex": 2.185,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "36/246"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2011,
+        "impactIndex": 2.784,
+        "sector": "OPTICS",
+        "q": "1",
+        "position": "11/79"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2011,
+        "impactIndex": 2.784,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "25/245"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2011,
+        "impactIndex": 2.784,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "5/79"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2016,
+        "impactIndex": 3.671,
+        "sector": "OPTICS",
+        "q": "1",
+        "position": "13/92"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2016,
+        "impactIndex": 3.671,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "43/262"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2016,
+        "impactIndex": 3.671,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "17/89"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2019,
+        "impactIndex": 4.288,
+        "sector": "OPTICS",
+        "q": "1",
+        "position": "14/97"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2019,
+        "impactIndex": 4.288,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "47/266"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2019,
+        "impactIndex": 4.288,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "22/90"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2020,
+        "impactIndex": 4.142,
+        "sector": "OPTICS",
+        "q": "1",
+        "position": "17/99"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2020,
+        "impactIndex": 4.142,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "57/273"
+    },
+    {
+        "journal": "JOURNAL OF LIGHTWAVE TECHNOLOGY",
+        "year": 2020,
+        "impactIndex": 4.142,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "23/91"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2011,
+        "impactIndex": 1.872,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "1",
+        "position": "7/50"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2011,
+        "impactIndex": 1.872,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "17/79"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2011,
+        "impactIndex": 1.872,
+        "sector": "OPTICS",
+        "q": "2",
+        "position": "24/79"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2011,
+        "impactIndex": 1.872,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "1",
+        "position": "24/135"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2012,
+        "impactIndex": 1.433,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "1",
+        "position": "12/50"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2012,
+        "impactIndex": 1.433,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "23/78"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2012,
+        "impactIndex": 1.433,
+        "sector": "OPTICS",
+        "q": "2",
+        "position": "35/80"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2012,
+        "impactIndex": 1.433,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "40/132"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2015,
+        "impactIndex": 2.183,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "1",
+        "position": "8/51"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2015,
+        "impactIndex": 2.183,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "16/82"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2015,
+        "impactIndex": 2.183,
+        "sector": "OPTICS",
+        "q": "2",
+        "position": "25/90"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2015,
+        "impactIndex": 2.183,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "1",
+        "position": "24/144"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2017,
+        "impactIndex": 2.742,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "1",
+        "position": "12/50"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2017,
+        "impactIndex": 2.742,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "30/87"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2017,
+        "impactIndex": 2.742,
+        "sector": "OPTICS",
+        "q": "2",
+        "position": "24/94"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2017,
+        "impactIndex": 2.742,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "40/132"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2021,
+        "impactIndex": 4.508,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "1",
+        "position": "12/54"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2021,
+        "impactIndex": 4.508,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "29/93"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2021,
+        "impactIndex": 4.508,
+        "sector": "OPTICS",
+        "q": "2",
+        "position": "29/93"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2021,
+        "impactIndex": 4.508,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "55/164"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "TELECOMMUNICATIONS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "OPTICS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "Journal of Optical Communications and Networking",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "JOURNAL OF NETWORK AND COMPUTER APPLICATIONS",
+        "year": 2011,
+        "impactIndex": 1.065,
+        "sector": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
+        "q": "3",
+        "position": "62/99"
+    },
+    {
+        "journal": "JOURNAL OF NETWORK AND COMPUTER APPLICATIONS",
+        "year": 2011,
+        "impactIndex": 1.065,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "2",
+        "position": "21/50"
+    },
+    {
+        "journal": "JOURNAL OF NETWORK AND COMPUTER APPLICATIONS",
+        "year": 2011,
+        "impactIndex": 1.065,
+        "sector": "COMPUTER SCIENCE, SOFTWARE ENGINEERING",
+        "q": "2",
+        "position": "36/104"
+    },
+    {
+        "journal": "OPERATIONS RESEARCH LETTERS",
+        "year": 2011,
+        "impactIndex": 0.537,
+        "sector": "OPERATIONS RESEARCH & MANAGEMENT SCIENCE",
+        "q": "3",
+        "position": "55/77"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2011,
+        "impactIndex": 1.000,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "37/79"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2011,
+        "impactIndex": 1.000,
+        "sector": "OPTICS",
+        "q": "3",
+        "position": "47/79"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2011,
+        "impactIndex": 1.000,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "63/135"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2013,
+        "impactIndex": 0.909,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "58/83"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2013,
+        "impactIndex": 0.909,
+        "sector": "OPTICS",
+        "q": "3",
+        "position": "47/79"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2013,
+        "impactIndex": 0.909,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "3",
+        "position": "77/135"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2019,
+        "impactIndex": 2.577,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "46/90"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2019,
+        "impactIndex": 2.577,
+        "sector": "OPTICS",
+        "q": "2",
+        "position": "35/97"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2019,
+        "impactIndex": 2.577,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "76/156"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "TELECOMMUNICATIONS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "OPTICS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "Optical Switching and Networking",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "Personal and Ubiquitous Computing",
+        "year": 2008,
+        "impactIndex": 3.006,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "33/67"
+    },
+    {
+        "journal": "Personal and Ubiquitous Computing",
+        "year": 2008,
+        "impactIndex": 3.006,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "3",
+        "position": "67/99"
+    },
+    {
+        "journal": "PHOTONIC NETWORK COMMUNICATIONS",
+        "year": 2010,
+        "impactIndex": 1.768,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "50/80"
+    },
+    {
+        "journal": "PHOTONIC NETWORK COMMUNICATIONS",
+        "year": 2010,
+        "impactIndex": 1.768,
+        "sector": "OPTICS",
+        "q": "4",
+        "position": "50/80"
+    },
+    {
+        "journal": "PHOTONIC NETWORK COMMUNICATIONS",
+        "year": 2010,
+        "impactIndex": 1.768,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "4",
+        "position": "105/128"
+    },
+    {
+        "journal": "PHOTONIC NETWORK COMMUNICATIONS",
+        "year": 2011,
+        "impactIndex": 1.768,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "58/79"
+    },
+    {
+        "journal": "PHOTONIC NETWORK COMMUNICATIONS",
+        "year": 2011,
+        "impactIndex": 1.768,
+        "sector": "OPTICS",
+        "q": "4",
+        "position": "66/79"
+    },
+    {
+        "journal": "PRECISION AGRICULTURE",
+        "year": 2017,
+        "impactIndex": 5.767,
+        "sector": "AGRICULTURE, MULTIDISCIPLINARY",
+        "q": "1",
+        "position": "6/57"
+    },
+    {
+        "journal": "Scientific Reports",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "MULTIDISCIPLINARY SCIENCES",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "Security and Communication Networks",
+        "year": 2014,
+        "impactIndex": 1.968,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "54/77"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2011,
+        "impactIndex": 3.847,
+        "sector": "CHEMISTRY, ANALYTICAL",
+        "q": "3",
+        "position": "41/73"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2011,
+        "impactIndex": 3.847,
+        "sector": "INSTRUMENTS & INSTRUMENTATION",
+        "q": "1",
+        "position": "14/58"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2011,
+        "impactIndex": 3.847,
+        "sector": "ELECTROCHEMISTRY",
+        "q": "3",
+        "position": "18/27"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2019,
+        "impactIndex": 3.847,
+        "sector": "CHEMISTRY, ANALYTICAL",
+        "q": "2",
+        "position": "22/86"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2019,
+        "impactIndex": 3.847,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "77/266"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2019,
+        "impactIndex": 3.847,
+        "sector": "INSTRUMENTS & INSTRUMENTATION",
+        "q": "1",
+        "position": "15/64"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2020,
+        "impactIndex": 3.847,
+        "sector": "CHEMISTRY, ANALYTICAL",
+        "q": "2",
+        "position": "26/87"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2020,
+        "impactIndex": 3.847,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "82/273"
+    },
+    {
+        "journal": "SENSORS",
+        "year": 2020,
+        "impactIndex": 3.847,
+        "sector": "INSTRUMENTS & INSTRUMENTATION",
+        "q": "1",
+        "position": "14/64"
+    },
+    {
+        "journal": "SIMULATION MODELLING PRACTICE AND THEORY",
+        "year": 2013,
+        "impactIndex": 4.199,
+        "sector": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
+        "q": "3",
+        "position": "70/102"
+    },
+    {
+        "journal": "SIMULATION MODELLING PRACTICE AND THEORY",
+        "year": 2013,
+        "impactIndex": 4.199,
+        "sector": "COMPUTER SCIENCE, SOFTWARE ENGINEERING",
+        "q": "2",
+        "position": "49/105"
+    },
+    {
+        "journal": "Sustainability",
+        "year": 2020,
+        "impactIndex": 3.889,
+        "sector": "ENVIRONMENTAL SCIENCES",
+        "q": "2",
+        "position": "124/274"
+    },
+    {
+        "journal": "Sustainability",
+        "year": 2020,
+        "impactIndex": 3.889,
+        "sector": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY",
+        "q": "3",
+        "position": "30/44"
+    },
+    {
+        "journal": "Sustainability",
+        "year": 2021,
+        "impactIndex": 3.889,
+        "sector": "ENVIRONMENTAL SCIENCES",
+        "q": "2",
+        "position": "133/279"
+    },
+    {
+        "journal": "Sustainability",
+        "year": 2021,
+        "impactIndex": 3.889,
+        "sector": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY",
+        "q": "3",
+        "position": "35/47"
+    },
+    {
+        "journal": "INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION",
+        "year": 2019,
+        "impactIndex": 3.804,
+        "sector": "EDUCATION, SCIENTIFIC DISCIPLINES",
+        "q": "4",
+        "position": "32/42"
+    },
+    {
+        "journal": "INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION",
+        "year": 2019,
+        "impactIndex": 3.804,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "4",
+        "position": "223/266"
+    },
+    {
+        "journal": "INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION",
+        "year": 2021,
+        "impactIndex": "-",
+        "sector": "EDUCATION, SCIENTIFIC DISCIPLINES",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION",
+        "year": 2021,
+        "impactIndex": "-",
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "WIRELESS COMMUNICATIONS & MOBILE COMPUTING",
+        "year": 2018,
+        "impactIndex": 2.146,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "3",
+        "position": "113/155"
+    },
+    {
+        "journal": "WIRELESS COMMUNICATIONS & MOBILE COMPUTING",
+        "year": 2018,
+        "impactIndex": 2.146,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "3",
+        "position": "186/266"
+    },
+    {
+        "journal": "WIRELESS COMMUNICATIONS & MOBILE COMPUTING",
+        "year": 2018,
+        "impactIndex": 2.146,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "4",
+        "position": "67/88"
+    },
+    {
+        "journal": "BioResources",
+        "year": 2020,
+        "impactIndex": 1.747,
+        "sector": "MATERIALS SCIENCE, PAPER & WOOD",
+        "q": "2",
+        "position": "8/22"
+    },
+    {
+        "journal": "ETRI JOURNAL",
+        "year": 2013,
+        "impactIndex": 1.622,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "3",
+        "position": "152/248"
+    },
+    {
+        "journal": "ETRI JOURNAL",
+        "year": 2013,
+        "impactIndex": 1.622,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "3",
+        "position": "48/78"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2019,
+        "impactIndex": 3.476,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "1",
+        "position": "35/156"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2019,
+        "impactIndex": 3.476,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "61/266"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2019,
+        "impactIndex": 3.476,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "26/90"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2020,
+        "impactIndex": 3.476,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "65/161"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2020,
+        "impactIndex": 3.476,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "94/273"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2020,
+        "impactIndex": 3.476,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "36/91"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2021,
+        "impactIndex": 3.476,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "2",
+        "position": "79/164"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2021,
+        "impactIndex": 3.476,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "105/276"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2021,
+        "impactIndex": 3.476,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "43/93"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "IEEE Access",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "TELECOMMUNICATIONS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS LETTERS",
+        "year": 2018,
+        "impactIndex": "-",
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "28/88"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2001,
+        "impactIndex": 9.030,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "8/200"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2001,
+        "impactIndex": 9.030,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "3/49"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2006,
+        "impactIndex": 9.030,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "35/206"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2006,
+        "impactIndex": 9.030,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "7/59"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2009,
+        "impactIndex": 9.030,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "25/246"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2009,
+        "impactIndex": 9.030,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "5/77"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2012,
+        "impactIndex": 9.030,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "12/243"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2012,
+        "impactIndex": 9.030,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "3/78"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2016,
+        "impactIndex": 9.030,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "3/262"
+    },
+    {
+        "journal": "IEEE COMMUNICATIONS MAGAZINE",
+        "year": 2016,
+        "impactIndex": 9.030,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "2/89"
+    },
+    {
+        "journal": "IEEE NETWORK",
+        "year": 2015,
+        "impactIndex": 9.030,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "1",
+        "position": "4/51"
+    },
+    {
+        "journal": "IEEE NETWORK",
+        "year": 2015,
+        "impactIndex": 9.030,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "1",
+        "position": "11/144"
+    },
+    {
+        "journal": "IEEE NETWORK",
+        "year": 2015,
+        "impactIndex": 9.030,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "29/257"
+    },
+    {
+        "journal": "IEEE NETWORK",
+        "year": 2015,
+        "impactIndex": 9.030,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "7/82"
+    },
+    {
+        "journal": "IEEE Transactions on Automation Science and Engineering",
+        "year": 2013,
+        "impactIndex": 6.636,
+        "sector": "AUTOMATION & CONTROL SYSTEMS",
+        "q": "2",
+        "position": "16/59"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON COMMUNICATIONS",
+        "year": 2011,
+        "impactIndex": 6.166,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "2",
+        "position": "64/245"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON COMMUNICATIONS",
+        "year": 2011,
+        "impactIndex": 6.166,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "2",
+        "position": "20/79"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON EDUCATION",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "EDUCATION, SCIENTIFIC DISCIPLINES",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON EDUCATION",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2011,
+        "impactIndex": 11.648,
+        "sector": "AUTOMATION & CONTROL SYSTEMS",
+        "q": "1",
+        "position": "3/58"
+    },
+    {
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2011,
+        "impactIndex": 11.648,
+        "sector": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
+        "q": "1",
+        "position": "12/99"
+    },
+    {
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2011,
+        "impactIndex": 11.648,
+        "sector": "ENGINEERING, INDUSTRIAL",
+        "q": "1",
+        "position": "2/43"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY",
+        "year": 2016,
+        "impactIndex": 6.239,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "32/262"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY",
+        "year": 2016,
+        "impactIndex": 6.239,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "10/89"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY",
+        "year": 2016,
+        "impactIndex": 6.239,
+        "sector": "TRANSPORTATION SCIENCE & TECHNOLOGY",
+        "q": "1",
+        "position": "4/34"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS",
+        "year": 2014,
+        "impactIndex": 8.346,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "33/249"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS",
+        "year": 2014,
+        "impactIndex": 8.346,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "8/77"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON MOBILE COMPUTING",
+        "year": 2016,
+        "impactIndex": 6.075,
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "1",
+        "position": "13/146"
+    },
+    {
+        "journal": "IEEE TRANSACTIONS ON MOBILE COMPUTING",
+        "year": 2016,
+        "impactIndex": 6.075,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "15/89"
+    },
+    {
+        "journal": "IEEE-ACM TRANSACTIONS ON NETWORKING",
+        "year": 2012,
+        "impactIndex": 3.796,
+        "sector": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "q": "1",
+        "position": "8/50"
+    },
+    {
+        "journal": "IEEE-ACM TRANSACTIONS ON NETWORKING",
+        "year": 2012,
+        "impactIndex": 3.796,
+        "sector": "COMPUTER SCIENCE, THEORY & METHODS",
+        "q": "1",
+        "position": "10/100"
+    },
+    {
+        "journal": "IEEE-ACM TRANSACTIONS ON NETWORKING",
+        "year": 2012,
+        "impactIndex": 3.796,
+        "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "q": "1",
+        "position": "47/243"
+    },
+    {
+        "journal": "IEEE-ACM TRANSACTIONS ON NETWORKING",
+        "year": 2012,
+        "impactIndex": 3.796,
+        "sector": "TELECOMMUNICATIONS",
+        "q": "1",
+        "position": "47/243"
+    },
+    {
+        "journal": "International Journal of Communication Networks and Distributed Systems",
+        "year": 2008,
+        "impactIndex": "-",
+        "sector": "COMPUTER SCIENCE, INFORMATION SYSTEMS",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "International Journal of Environmental Research and Public Health",
+        "year": 2020,
+        "impactIndex": 4.614,
+        "sector": "ENVIRONMENTAL SCIENCES",
+        "q": "2",
+        "position": "118/274"
+    },
+    {
+        "journal": "International Journal of Environmental Research and Public Health",
+        "year": 2020,
+        "impactIndex": 4.614,
+        "sector": "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH",
+        "q": "2",
+        "position": "68/203"
+    },
+    {
+        "journal": "Journal of Networks",
+        "year": 2012,
+        "impactIndex": "-",
+        "sector": "-",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "PLoS One",
+        "year": 2021,
+        "impactIndex": "3.752",
+        "sector": "MULTIDISCIPLINARY SCIENCES",
+        "q": "2",
+        "position": "29/74"
+    },
+    {
+        "journal": "PLoS One",
+        "year": 2022,
+        "impactIndex": "-",
+        "sector": "MULTIDISCIPLINARY SCIENCES",
+        "q": "-",
+        "position": "-"
+    },
+    {
+        "journal": "RIED-Revista Iberoamericana de Educacion a Distancia",
+        "year": 2021,
+        "impactIndex": "2.689",
+        "sector": "EDUCATION & EDUCATIONAL RESEARCH",
+        "q": "2",
+        "position": "111/270"
+    },
+    {
+      "journal": "IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS",
+      "year": 2022,
+      "impactIndex":"-",
+      "sector": "ENGINEERING, CIVIL",
+      "q": "-",
+      "position": "-"
+    },
+    {
+      "journal": "IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS",
+      "year": 2022,
+      "impactIndex":"-",
+      "sector": "TRANSPORTATION SCIENCE & TECHNOLOGY",
+      "q": "-",
+      "position": "-"
+    },
+    {
+      "journal": "IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS",
+      "year": 2022,
+      "impactIndex":"-",
+      "sector": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+      "q": "-",
+      "position": "-"
+    }
+
+]
