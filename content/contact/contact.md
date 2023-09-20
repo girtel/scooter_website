@@ -18,13 +18,13 @@ content:
 
   #email: pablo.pavon@upct.es
   #phone: +34 968 325952
-  address:
-    street: "Antiguo Cuartel de Antigones. Plaza del Hospital, 1, CP: 30203"
-    city: Cartagena
-    region: Región de Murcia
-    #postcode: '94305'
-    country: Spain
-    country_code: ES
+  #address:
+  #  street: "Antiguo Cuartel de Antigones. Plaza del Hospital, 1, CP: 30203"
+  #  city: Cartagena
+  #  region: Región de Murcia
+  #  #postcode: '94305'
+  #  country: Spain
+  #  country_code: ES
   coordinates:
     latitude: '37.601434'
     longitude: '-0.978408'
@@ -55,5 +55,17 @@ design:
   columns: '1'
 ---
 
-Heads of the project:
-- [Example](mailto:example@example.com)
+<div style="text-align: center"> 
+<a href="mailto:jose.santa@upct.es">Jose Santa</a>
+<h1>Email</h1>
+<a href="mailto:jose.santa@upct.es">jose.santa@upct.es</a>
+<h1>Postal Address</h1>
+<div>
+Dept. Electronics, Computer Technology and Projects<br>
+Technical University of Cartagena (UPCT)<br>
+Edificio de Antigones 30202 Cartagena, Murcia, SPAIN
+</div>
+<h1>Telephone</h1>
+<a href="tel:+34868071063">+34-868-071063</a>
+</div>
+

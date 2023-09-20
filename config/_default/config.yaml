@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Example # Website name
-baseURL: 'https://example.upct.es/' # Website URL
+title: Wireless and Mobile Internet of Things (WILLIOT) # Website name
+baseURL: 'https://williot.girtel.es/' # Website URL
 canonifyURLs: false
 relativeURLs: false
 

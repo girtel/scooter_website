@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: news-onhome
+widget: pages
 headless: true
 active: true
 weight: 20
@@ -20,7 +20,6 @@ content:
   order: desc
   page_type: news
 design:
-  view: custom
+  view: compact
   columns: '1'
-  news_cols: 3
 ---

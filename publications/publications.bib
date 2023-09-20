@@ -1,9 +1,100 @@
-@inproceedings{example,
-	location = {Basel},
-	title = {Example Publication},
-	url = {https://example.com},
-	eventtitle = {Example},
-	author = {Example},
-	urldate = {2022-10-04},
-	date = {2022-09},
+
+academic import --bibtex publications/publications.bib
+
+
+@Article{electronics8020117,
+AUTHOR = {Santa, José and Fernández, Pedro J. and Ortiz, Jordi and Sanchez-Iborra, Ramon and Skarmeta, Antonio F.},
+TITLE = {SURROGATES: Virtual OBUs to Foster 5G Vehicular Services},
+JOURNAL = {Electronics},
+VOLUME = {8},
+YEAR = {2019},
+NUMBER = {2},
+ARTICLE-NUMBER = {117},
+URL = {https://www.mdpi.com/2079-9292/8/2/117},
+ISSN = {2079-9292},
+ABSTRACT = {Virtualization technologies are key enablers of softwarized 5G networks, and their usage in the vehicular domain can provide flexibility and reliability in real deployments, where mobility and processing needs may be an issue. Next-generation vehicular services, such as the ones in the area of urban mobility and, in general, those interconnecting on-board sensors, require continuous data gathering and processing, but current architectures are stratified in two-tier solutions in which data is collected by on-board units (OBU) and sent to cloud servers. In this line, intermediate cache and processing layers are needed in order to cover quasi-ubiquitous data-gathering needs of vehicles in scenarios of smart cities/roads considering vehicles as moving sensors. The SURROGATES solution presented in this paper proposes to virtualize vehicle OBUs and create a novel Multi-Access Edge Computing (MEC) layer with the aim of offloading processing from the vehicle and serving data-access requests. This deals with potential disconnection periods of vehicles, saves radio resources when accessing the physical OBU and improves data processing performance. A proof of concept has been implemented using OpenStack and Open Source MANO to virtualize resources and gather data from in-vehicle sensors, and a final traffic monitoring service has been implemented to validate the proposal. Performance results reveal a speedup of more than 50% in the data request resolution, with consequently great savings of network resources in the wireless segment. Thus, this work opens a novel path regarding the virtualization of end-devices in the Intelligent Transportation Systems (ITS) ecosystem.},
+DOI = {10.3390/electronics8020117}
 }
+@Article{s19020264,
+AUTHOR = {Santa, José and Sanchez-Iborra, Ramon and Rodriguez-Rey, Pablo and Bernal-Escobedo, Luis and Skarmeta, Antonio F.},
+TITLE = {LPWAN-Based Vehicular Monitoring Platform with a Generic IP Network Interface},
+JOURNAL = {Sensors},
+VOLUME = {19},
+YEAR = {2019},
+NUMBER = {2},
+ARTICLE-NUMBER = {264},
+URL = {https://www.mdpi.com/1424-8220/19/2/264},
+PubMedID = {30641877},
+ISSN = {1424-8220},
+ABSTRACT = {Remote vehicle monitoring is a field that has recently attracted the attention of both academia and industry. With the dawn of the Internet of Things (IoT) paradigm, the possibilities for performing this task have multiplied, due to the emergence of low-cost and multi-purpose monitoring devices and the evolution of wireless transmission technologies. Low Power-Wide Area Network (LPWAN) encompasses a set of IoT communication technologies that are gaining momentum, due to their highly valued features regarding transmission distance and end-device energy consumption. For that reason, in this work we present a vehicular monitoring platform enabled by LPWAN-based technology, namely Long Range Wide Area Network (LoRaWAN). Concretely, we explore the end-to-end architecture considering vehicle data retrieving by using an On-Board Diagnostics II (OBD-II) interface, their compression with a novel IETF compression scheme in order to transmit them over the constrained LoRaWAN link, and information visualization through a data server hosted in the cloud, by means of a web-based dashboard. A key advance of the proposal is the design and development of a UNIX-based network interface for LPWAN communications. The whole system has been tested in a university campus environment, showing its capabilities to remotely track vehicle status in real-time. The conducted performance evaluation also shows high levels of reliability in the transmission link, with packet delivery ratios over 95%. The platform boosts the process of monitoring vehicles, enabling a variety of services such as mechanical failure prediction and detection, fleet management, and traffic monitoring, and is extensible to light vehicles with severe power constraints.},
+DOI = {10.3390/s19020264}
+}
+
+@Article{s19143107,
+AUTHOR = {Sanchez-Iborra, Ramon and Santa, José and Gallego-Madrid, Jorge and Covaci, Stefan and Skarmeta, Antonio},
+TITLE = {Empowering the Internet of Vehicles with Multi-RAT 5G Network Slicing},
+JOURNAL = {Sensors},
+VOLUME = {19},
+YEAR = {2019},
+NUMBER = {14},
+ARTICLE-NUMBER = {3107},
+URL = {https://www.mdpi.com/1424-8220/19/14/3107},
+PubMedID = {31337087},
+ISSN = {1424-8220},
+ABSTRACT = {Internet of Vehicles (IoV) is a hot research niche exploiting the synergy between Cooperative Intelligent Transportation Systems (C-ITS) and the Internet of Things (IoT), which can greatly benefit of the upcoming development of 5G technologies. The variety of end-devices, applications, and Radio Access Technologies (RATs) in IoV calls for new networking schemes that assure the Quality of Service (QoS) demanded by the users. To this end, network slicing techniques enable traffic differentiation with the aim of ensuring flow isolation, resource assignment, and network scalability. This work fills the gap of 5G network slicing for IoV and validates it in a realistic vehicular scenario. It offers an accurate bandwidth control with a full flow-isolation, which is essential for vehicular critical systems. The development is based on a distributed Multi-Access Edge Computing (MEC) architecture, which provides flexibility for the dynamic placement of the Virtualized Network Functions (VNFs) in charge of managing network traffic. The solution is able to integrate heterogeneous radio technologies such as cellular networks and specific IoT communications with potential in the vehicular sector, creating isolated network slices without risking the Core Network (CN) scalability. The validation results demonstrate the framework capabilities of short and predictable slice-creation time, performance/QoS assurance and service scalability of up to one million connected devices.},
+DOI = {10.3390/s19143107}
+}
+
+@INPROCEEDINGS{9013623,
+  author={Sanchez-Iborra, Ramon and Covaci, Stefan and Santa, Jose and Sanchez-Gomez, Jesus and Gallego-Madrid, Jorge and Skarmeta, Antonio F.},
+  booktitle={2019 IEEE Global Communications Conference (GLOBECOM)}, 
+  title={MEC-Assisted End-to-End 5G-Slicing for IoT}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/GLOBECOM38437.2019.9013623}
+}
+
+@Article{s20010280,
+AUTHOR = {Sanchez-Gomez, Jesus and Gallego-Madrid, Jorge and Sanchez-Iborra, Ramon and Santa, Jose and Skarmeta, Antonio F.},
+TITLE = {Impact of SCHC Compression and Fragmentation in LPWAN: A Case Study with LoRaWAN},
+JOURNAL = {Sensors},
+VOLUME = {20},
+YEAR = {2020},
+NUMBER = {1},
+ARTICLE-NUMBER = {280},
+URL = {https://www.mdpi.com/1424-8220/20/1/280},
+PubMedID = {31947852},
+ISSN = {1424-8220},
+ABSTRACT = {The dawn of the Internet of Things (IoT) paradigm has brought about a series of novel services never imagined until recently. However, certain deployments such as those employing Low-Power Wide-Area Network (LPWAN)-based technologies may present severe network restrictions in terms of throughput and supported packet length. This situation prompts the isolation of LPWAN systems on islands with limited interoperability with the Internet. For that reason, the IETF’s LPWAN working group has proposed a Static Context Header Compression (SCHC) scheme that permits compression and fragmentation of and IPv6/UDP/CoAP packets with the aim of making them suitable for transmission over the restricted links of LPWANs. Given the impact that such a solution can have in many IoT scenarios, this paper addresses its real evaluation in terms not only of latency and delivery ratio improvements, as a consequence of different compression and fragmentation levels, but also of the overhead in end node resources and useful payload sent per fragment. This has been carried out with the implementation of middleware and using a real testbed implementation of a LoRaWAN-to-IPv6 architecture together with a publish/subscribe broker for CoAP. The attained results show the advantages of SCHC, and sustain discussion regarding the impact of different SCHC and LoRaWAN configurations on the performance. It is highlighted that necessary end node resources are low as compared to the benefit of delivering long IPv6 packets over the LPWAN links. In turn, fragmentation can impose a lack of efficiency in terms of data and energy and, hence, a cross-layer solution is needed in order to obtain the best throughput of the network.},
+DOI = {10.3390/s20010280}
+}
+
+@ARTICLE{8978626,
+  author={Santa, Jose and Ortiz, Jordi and Fernandez, Pedro J. and Luis, Miguel and Gomes, Christian and Oliveira, Jorge and Gomes, Diogo and Sanchez-Iborra, Ramon and Sargento, Susana and Skarmeta, Antonio F.},
+  journal={IEEE Access}, 
+  title={MIGRATE: Mobile Device Virtualisation Through State Transfer}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={25848-25862},
+  doi={10.1109/ACCESS.2020.2971090}
+}
+
+@article{SANTA2020173,
+title = {On-board unit to connect personal mobility vehicles to the IoT},
+journal = {Procedia Computer Science},
+volume = {175},
+pages = {173-180},
+year = {2020},
+note = {The 17th International Conference on Mobile Systems and Pervasive Computing (MobiSPC),The 15th International Conference on Future Networks and Communications (FNC),The 10th International Conference on Sustainable Energy Information Technology},
+issn = {1877-0509},
+doi = {https://doi.org/10.1016/j.procs.2020.07.027},
+url = {https://www.sciencedirect.com/science/article/pii/S1877050920317063},
+author = {Jose Santa and Luis Bernal-Escobedo and Ramon Sanchez-Iborra},
+keywords = {Personal Mobility, IoV, LPWAN, LoRaWAN, NB-IoT, Evaluation, Urban Sensing},
+abstract = {The basis of smart city services is urban sensing, i.e., the collection of data from sensors deployed in urban settings. However, it has been recently when mobile objects have started to be monitored to feed smart applications within the smart city ecosystems. Most of the advances in this area focus on gathering data from public transportation services such as buses or trams, which use to employ regular cellular or WiFi-based networks and state-of-the-art TCP/IP protocols. Although this covers a basic on-board equipment to report position and other sensor data, there is not a direct integration of Internet of Things (IoT) capabilities in urban transportation and, in general, in moving “things”. Communication technologies used in regular wireless sensor networks such as ZigBee or Bluetooth are not appropriate for high mobility patterns. The Internet of Vehicles (IoV) paradigm aims at filling these gaps, exploiting the synergy between IoT and vehicular networks. It is an emerging area in which extra efforts should be paid to cover constrained capabilities of end devices installed on personal mobility devices, e.g., scooters, segways or bicycles. The solution proposed here deals with the connectivity of moving objects by developing an on-board unit for energy-constrained vehicles, integrating communication capabilities using the Low-Power Wide Area Network (LPWAN) technologies Long Range Wide-area Network (LoRaWAN) and Narrow-Band IoT (NB-IoT) to efficiently collect data. A set of sensors are included to target services in the areas of urban mobility, enhanced environmental perception and speed-up of city operations. The on-board unit has been evaluated through real-life experiments to study especially its communication capabilities with NB-IoT, obtaining good performances in terms of packet delivery ratio and network delay under non-ideal coverage settings. Results show that NB-IoT presents better performances than LoRaWAN, as compared to our previous experiences, with negligible packet loss rates and two-way delays under 100 ms with Internet nodes, at the expense of needing a proper operator network deployment and consuming extra energy due to NB-IoT protocol complexity.}
+}
+
+Redirecting

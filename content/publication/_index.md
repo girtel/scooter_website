@@ -11,9 +11,8 @@ banner:
 ---
 
 <div style="text-align: center">
-Papers and documents published in frames of the BREATHE project
+Papers and documents published in frames of the SCOOTER project
 
-⚠️ Under construction...
 </div>
 <br>
 

@@ -8,9 +8,10 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 active: true
 title: |
-  Example (Example)
-subtitle: Financiado por Example
-#hero_media: welcome.png
+  SCOOTER project
+subtitle: SCOOTER systems for cooperative two-wheel vehicles
+image_title: scooter.png
+image_height: 300px
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

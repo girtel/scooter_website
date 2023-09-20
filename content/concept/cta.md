@@ -1,6 +1,6 @@
 ---
-title:
-subtitle:
+title: Concept
+subtitle: Systems for Cooperative Two-Wheel Vehicles (SCOOTER)
 widget: blank
 headless: true
 active: true
@@ -10,22 +10,25 @@ design:
 ---
 <div style="text-align: justify"> 
 
-Proident non eiusmod anim nulla id adipisicing mollit. Sit aliqua est ipsum ipsum aliqua sint qui id anim voluptate sunt nulla. Incididunt Lorem amet ullamco est aliqua eu ex sit eu.
+SCOOTER aims at connecting two-wheel vehicles and equivalent with their environment, with the main objective of offering services in the areas of safety, traffic efficiency and green mobility.
 
-Lorem ex aute adipisicing amet aliqua. Lorem excepteur Lorem exercitation et non magna laborum laboris irure dolor. Anim magna mollit minim est do nisi aliqua. Enim ex id proident sint. Fugiat et minim est nostrud nisi deserunt enim culpa voluptate elit reprehenderit officia reprehenderit adipisicing. Anim Lorem magna et enim incididunt ea qui.
+We are proposing a hardware/software solution that consists of an on-board unit (OBU) on the enabled vehicle and the connection with the user’s mobile device.
 
-Cupidatat veniam elit esse nulla. Elit cillum dolore tempor irure aute. Laborum incididunt pariatur eu aute non. Id deserunt fugiat minim proident ut do irure id et irure fugiat id.
+Since nowadays the mobile phone has become an unseparable tool for most people, we are basing our solution on creating a mobile device interface to seamlessly integrate vehicular applications in smart-phones connected with cloud-based services. These services will be fed by data collected from light vehicle OBUs.
 
-Fugiat proident et enim elit amet ipsum consectetur laboris ullamco occaecat sit sit nostrud officia. Aute irure deserunt excepteur veniam dolore dolore. Ad Lorem deserunt labore reprehenderit dolor laboris sunt nostrud Lorem aliqua ullamco. Ad ex qui enim ad aute ex ad duis laboris quis in. Ipsum proident occaecat eiusmod sunt. Aliquip eu cillum fugiat eu id mollit fugiat ea ipsum adipisicing.
+For our vision to become a reality, we need a highly integrated unit that abstract the application programmer form the potential multiple communication technologies included in the OBU. This way we will implement a middleware to manage all available communication channels (802.11p, 4/5G and LPWAN families) on the basis of a common IPv6 network access.
 
-Elit exercitation do ea eu qui non id mollit sint cupidatat. Ex ipsum nisi id velit enim Lorem in velit. Eiusmod fugiat quis elit aute mollit proident. Cillum qui nulla dolore adipisicing nisi. Ex dolor amet mollit nisi et non magna anim. Pariatur duis pariatur ut sint excepteur ullamco anim labore.
+Our platform will offer a base monitoring platform with proactive communication with the infrastructure in the form of beaconing, enabling a base for platform-adapted security and urban mobility services on the booming two wheeled transport systems. Our project also aims to demonstrate a real prototype to prove efficient driving on two wheeled transports such as scooters.
 
-Nostrud enim elit sunt cillum nulla ad sint incididunt fugiat ex anim aliqua deserunt. Culpa voluptate culpa ad laboris ut anim ex minim enim. Id nulla dolor velit eu cupidatat nulla tempor qui reprehenderit. Voluptate laborum nisi culpa dolor laboris occaecat quis quis. Aute consectetur do id est velit enim qui nulla reprehenderit qui commodo aute fugiat. Dolor labore ea sit nulla id culpa exercitation aute veniam. Enim ut ad amet tempor fugiat labore magna laboris anim commodo.
+<p>The <b>objetives</b> of the project are:</p>
 
-Amet dolore duis veniam anim occaecat labore. Id pariatur laboris proident eu. Eiusmod veniam et ex consectetur quis eiusmod ut in proident excepteur. Minim mollit nulla consectetur ipsum.
-
-In in sit nisi id minim eiusmod qui ipsum do sit. Anim eu ipsum amet ut id culpa anim nisi nostrud adipisicing ullamco veniam aliquip duis. Ex adipisicing tempor Lorem nisi laboris magna exercitation Lorem excepteur Lorem nisi cillum ex.
-
-Minim quis dolore sit incididunt laboris pariatur laborum incididunt. Consequat eu labore ut mollit. Tempor irure labore irure voluptate amet ipsum in anim ea enim non veniam veniam. Aute laboris veniam occaecat id nostrud aute nostrud culpa. Voluptate anim minim anim tempor ut pariatur pariatur irure sit sint ad. Consectetur id commodo officia dolore officia aliqua dolor esse do occaecat incididunt nulla culpa. Mollit reprehenderit eu incididunt aliqua.
+<ul>
+<li>Integrate LPWAN and 3-5G technologies on a two-wheeled platform.</li>
+<li>Develop a common IPv6 adaptation layer to unify the communication technologies used.</li>
+<li>Implement an user interface to enable control from the user’s mobile phone.</li>
+<li>Develop monitorization and proactive communication middleware for ITS and security purposes.</li>
+<li>Create a transparent abstraction layer of the communication technologies used. </li>
+<li>Implement reference services for a sustainable and healthy urban mobility.</li>
+</ul>
 
 </div>

@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  theme_night: 
   font: native
   font_size: L
 
@@ -38,14 +38,14 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
 footer:
   image: [assets/media/logo.png]
   copyright:
-    notice: '© {year} - All Rights Reservd'
+    notice: '© {year} - All Rights Reserved'
     license:
       enable: false
       allow_derivatives: false
