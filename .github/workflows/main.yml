@@ -1,0 +1,69 @@
+name: Website
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+  workflow_dispatch:
+
+jobs:
+  build:
+    if: ${{ github.ref == 'refs/heads/main' }}
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛒 Checkout
+        uses: actions/checkout@v3
+        
+      - name: ✨ Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: ✨ Install Academic CLI GIRTEL modified
+        run: |
+          mkdir ~/academic-cli
+          cd ~/academic-cli
+          git clone https://github.com/girtel/hugo-academic-cli-girtel.git
+          cd hugo-academic-cli-girtel
+          pip install -e .
+      
+      - name: ✨ Setup Hugo
+        env:
+          HUGO_VERSION: 0.107.0
+        run: |
+          mkdir ~/hugo
+          cd ~/hugo
+          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
+          tar -xvzf hugo.tar.gz
+          sudo mv hugo /usr/local/bin
+          
+      - name: 📚 Create publications
+        run: |         
+          academic import --bibtex publications/publications.bib
+          
+      - name: 🛠️ Build
+        run: hugo --gc --minify --quiet -F
+
+      - name: 🔑 Install SSH Key
+        run: |
+          install -m 600 -D /dev/null ~/.ssh/id_rsa
+          echo "${{ secrets.KEY }}" > ~/.ssh/id_rsa
+          echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+
+      - name: 🚀 Deploy
+        run: rsync -avzhe ssh 'public/' ${{ secrets.REMOTE_DEST }}
+        
+      - name: 📤 Telegram Notification
+        run: |
+          curl -X POST \
+           -H 'Content-Type: application/json' \
+           -d '{"chat_id": "${{ secrets.TELEGRAM_TO }}", "text": "✅ SCOOTER has been updated (scooter.girtel.es)", "disable_notification": false}' \
+           https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage
