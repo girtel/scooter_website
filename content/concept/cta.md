@@ -20,7 +20,7 @@ For our vision to become a reality, we need a highly integrated unit that abstra
 
 Our platform will offer a base monitoring platform with proactive communication with the infrastructure in the form of beaconing, enabling a base for platform-adapted security and urban mobility services on the booming two wheeled transport systems. Our project also aims to demonstrate a real prototype to prove efficient driving on two wheeled transports such as scooters.
 
-<p>The <b>objetives</b> of the project are:</p>
+<p>The <b>objectives</b> of the project are:</p>
 
 <ul>
 <li>Integrate LPWAN and 3-5G technologies on a two-wheeled platform.</li>
